@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> AI researcher </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 👨‍💻 I'm an AI Researcher specializing in Computer Vision and Deep Learning.</li><li> 🎓 I hold an M.S. in Computer Engineering from Dongguk University, specializing in AI.</li><li> 🔐 My research interests include Privacy Preserving AI, Edge AI</li><li> 🚀 I enjoy building efficient and practical AI systems for real world applications.</li><li> 📚 I'm currently exploring model optimization and trustworthy AI.</li><li> 📫 How to reach me: kinsha0226@gmail.com </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 👨‍💻 I'm an AI Researcher & Developer specializing in Computer Vision and Deep Learning.</li><li> 🎓 I hold an M.S. in Computer Engineering from Dongguk University, specializing in AI.</li><li> 🔐 My research interests include Privacy Preserving AI, Edge AI</li><li> 🚀 I enjoy building efficient and practical AI systems for real world applications.</li><li> 📚 I'm currently exploring model optimization and trustworthy AI.</li><li> 📫 How to reach me: kinsha0226@gmail.com </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
